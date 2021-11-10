@@ -1,2 +1,2 @@
 # sector_classifier
-sector classifier
+From activity description to general sector (Ita language)
